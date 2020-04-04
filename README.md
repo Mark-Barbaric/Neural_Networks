@@ -2,7 +2,7 @@
 
 ## Repository containing various Neural Network projects created using Keras, Tensorflow, SKLearn. List and summary of projects are below:
 
-##1. Predicting House Prices:
+## 1. Predicting House Prices:
 
 This is an expansion of a project from the Medium Article (below). Updated the code base and added seeding to the Keras and SKLearn models in order to create reproducable results during training.
 
@@ -15,7 +15,7 @@ The project creates three different models:
 2. Regularized Network with multiple additional layers and high Neuron count to simulate Overfitting.
 3. Neural Net which introduces L2_Regularization and Dropout as ways of resolving Overfitting issues.
 
-##2. Convolution Neural Network
+## 2. Convolution Neural Network
 
 This project is also an expansion on the second part to the above Medium Article:
 
